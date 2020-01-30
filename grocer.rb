@@ -1,12 +1,12 @@
 def find_item_by_name_in_collection(name, collection)
   # Implement me first!
-  8
+  =>
   #
   # Consult README for inputs and outputs
 end
 
 def consolidate_cart(cart)
-  8
+  =>
   # Consult README for inputs and outputs
   #
   # REMEMBER: This returns a new Array that represents the cart. Don't merely
@@ -14,21 +14,21 @@ def consolidate_cart(cart)
 end
 
 def apply_coupons(cart, coupons)
-  8
+  =>
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
 end
 
 def apply_clearance(cart)
-  8
+  =>
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
 end
 
 def checkout(cart, coupons)
-  8
+  =>
   # Consult README for inputs and outputs
   #
   # This method should call
